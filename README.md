@@ -12,5 +12,5 @@ I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and f
    [![Instagram Badge](https://img.shields.io/badge/-@auussttiin-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/auussttiin/)](https://instagram.com/auussttiin) 
    [![Twitter Badge](https://img.shields.io/badge/-@Auzyy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Auzy)](https://twitter.com/Auzyy)
 
-![Austin's github stats](https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
 ***
