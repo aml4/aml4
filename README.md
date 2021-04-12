@@ -1,6 +1,9 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning Swift. ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift)
+ <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning Swift. ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) Ultimately, I plan on making an iOS app that focuses on combining notes and maps into one app. 
+
  ***
 
 <p align="center">
@@ -13,6 +16,5 @@ I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and f
    [![Twitter Badge](https://img.shields.io/badge/-@Auzyy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Auzy)](https://twitter.com/Auzyy)
    <img src="https://komarev.com/ghpvc/?username=aml4" alt="aml4" />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
 
-***
