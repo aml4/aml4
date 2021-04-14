@@ -2,8 +2,7 @@
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning Swift. ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) Ultimately, I plan on making an iOS app that focuses on combining notes and maps into one app. 
-
+I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning Swift. ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) 
  ***
 
 <p align="center">
