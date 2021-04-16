@@ -3,8 +3,10 @@
 My name is [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift). 
 
 ***
+
+ <p align="center"><img src="https://i.pinimg.com/originals/5d/27/09/5d27099922e5fa89a861563885703ace.gif" /></p>
  
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)" alt="aml4 :: Profile Stats" /></p>
 
 ***
 
@@ -16,3 +18,4 @@ My name is [Austin](https://github.com/aml4/), I'm a biology major who is trying
    [![Gmail Badge](https://img.shields.io/badge/-austinlose-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:austinlose)](mailto:austinlose@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@auussttiin-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/auussttiin/)](https://instagram.com/auussttiin) 
    [![Twitter Badge](https://img.shields.io/badge/-@Auzyy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Auzy)](https://twitter.com/Auzyy)
+
