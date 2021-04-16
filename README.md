@@ -4,7 +4,7 @@ My name is [Austin](https://github.com/aml4/), I'm a biology major who is trying
 
 ***
 
- <p align="center"><img src="https://i.pinimg.com/originals/5d/27/09/5d27099922e5fa89a861563885703ace.gif" /></p>
+ <p align="center"><img src="https://i.pinimg.com/originals/c8/6c/81/c86c818d18341f5088f246a4d490d743.gif" /></p>
  
  ***
 
