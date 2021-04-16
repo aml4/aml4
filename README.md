@@ -3,7 +3,7 @@
 I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and failing) to learn programming. Specifically focused on learning ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift). 
  ***
  
- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
+ <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
 
 <p align="center">
   <i>
