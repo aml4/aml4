@@ -13,7 +13,7 @@ I'm [Austin](https://github.com/aml4/), I'm a biology major who is trying (and f
    [![Gmail Badge](https://img.shields.io/badge/-austinlose-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:austinlose)](mailto:austinlose@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/-@auussttiin-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/auussttiin/)](https://instagram.com/auussttiin) 
    [![Twitter Badge](https://img.shields.io/badge/-@Auzyy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Auzy)](https://twitter.com/Auzyy)
-   <img src="https://komarev.com/ghpvc/?username=aml4" alt="aml4" />
+  
 
 <p align="right"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
 
