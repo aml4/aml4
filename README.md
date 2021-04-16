@@ -4,7 +4,7 @@ My name is [Austin](https://github.com/aml4/), I'm a biology major who is trying
 
 ***
  
- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=aml4&show_icons=true&theme=synthwave" alt="aml4 :: Profile Stats" /></p>
 
 ***
 
