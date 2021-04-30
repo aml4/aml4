@@ -6,4 +6,6 @@ My name is [Austin](https://github.com/aml4/), I'm a biology major who is trying
 
  <p align="center"><img src="https://thumbs.gfycat.com/RemoteOrdinaryElephant-max-1mb.gif" /></p>
  
+***
 
+![image](https://user-images.githubusercontent.com/42383701/116643287-b2eee800-a93e-11eb-8b66-518195884fb5.gif)
